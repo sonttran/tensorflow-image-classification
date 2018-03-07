@@ -24,6 +24,7 @@ flat-coated retriever (score = 0.00776)
 ### <a href="http://www.sontran.co/image-recognition">Live demo</a> 
 * This demo uses <a href="https://github.com/sonttran/server">Vpop Node.js server</a> and expose this image recognition engine to the web
 * Samples
+
 ![Chihuahua](pics/1.png)
 
 ![Labrador](pics/2.png)
